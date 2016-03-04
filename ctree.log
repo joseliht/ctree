@@ -1,0 +1,80 @@
+-----------------------------------------------------------------------------------------------------------
+      name:  <unnamed>
+       log:  C:\Users\jliht\Desktop\ctree\ctree.log
+  log type:  text
+ opened on:  11 Oct 2015, 18:39:19
+
+. tab basicpostcut homophobia  if grupo ==1, row all
+
++----------------+
+| Key            |
+|----------------|
+|   frequency    |
+| row percentage |
++----------------+
+
+                   |   RECODE of H0minH1
+                   |    (Improvement in
+                   |      Homophobia)
+      basicpostcut | Didn't im   Improved |     Total
+-------------------+----------------------+----------
+Lower/equal than 9 |        21         25 |        46 
+                   |     45.65      54.35 |    100.00 
+-------------------+----------------------+----------
+      Highr than 9 |        10         57 |        67 
+                   |     14.93      85.07 |    100.00 
+-------------------+----------------------+----------
+             Total |        31         82 |       113 
+                   |     27.43      72.57 |    100.00 
+
+          Pearson chi2(1) =  12.9351   Pr = 0.000
+ likelihood-ratio chi2(1) =  12.8899   Pr = 0.000
+               Cramér's V =   0.3383
+                    gamma =   0.6545  ASE = 0.129
+          Kendall's tau-b =   0.3383  ASE = 0.090
+
+. tab basicpostcut homophobia_W , row all
+
++----------------+
+| Key            |
+|----------------|
+|   frequency    |
+| row percentage |
++----------------+
+
+                   |   RECODE of H0minH1
+                   |    (Improvement in
+                   |      Homophobia)
+      basicpostcut | Worstened  Didn't wo |     Total
+-------------------+----------------------+----------
+Lower/equal than 9 |        23         40 |        63 
+                   |     36.51      63.49 |    100.00 
+-------------------+----------------------+----------
+      Highr than 9 |        16        117 |       133 
+                   |     12.03      87.97 |    100.00 
+-------------------+----------------------+----------
+             Total |        39        157 |       196 
+                   |     19.90      80.10 |    100.00 
+
+          Pearson chi2(1) =  16.0706   Pr = 0.000
+ likelihood-ratio chi2(1) =  15.1487   Pr = 0.000
+               Cramér's V =   0.2863
+                    gamma =   0.6157  ASE = 0.116
+          Kendall's tau-b =   0.2863  ASE = 0.074
+
+. tab grupo
+
+Clinical/Non |
+   -clinical |      Freq.     Percent        Cum.
+-------------+-----------------------------------
+    Clinical |         83       42.35       42.35
+Non-clinical |        113       57.65      100.00
+-------------+-----------------------------------
+       Total |        196      100.00
+
+. log close
+      name:  <unnamed>
+       log:  C:\Users\jliht\Desktop\ctree\ctree.log
+  log type:  text
+ closed on:  11 Oct 2015, 18:39:48
+-----------------------------------------------------------------------------------------------------------
