@@ -1,0 +1,199 @@
+DATE_OF_QUES	NAME	POPULATION_G	SEX	D.O.B.	EDUCATION	JOB	TRAINING	ASK_SEX	COUNSEL	H4M_before?	BASIC_KNOWLE_pre	HOMOPHOBIA_pre	FURTHER_KNWO_pre	TOTAL_KNOWLE_pre	BASIC_KNOWLE_post	HOMOPHOBIA_post	FURTHER_KNWO_post	TOTAL_KNOWLE_post	CHANGE_IN_HO	GRUPO				
+24/02/2015	Khayelitsha Site B CHC	Black African	F	13/08/1959	University Degree/Diploma	CNP	2	1	2	2	5	27	9	14	9	24	12	21	3	1				
+24/02/2015	Khayelitsha Site B CHC	Black African	F	05/10/1957	Post-graduate	CNP	2	2	2	2	6	27	5	11	10	24	12	22	3	1				
+24/02/2015	Khayelitsha Site B CHC	Black African	M	09/09/1974	Post-graduate	CNP	2	2	2	1	6	56	5	11	11	41	10	21	15	1				
+24/02/2015	Khayelitsha Site B CHC	Black African	F	25/10/1982	Matric	EN	2	2	2	2	7	15	4	11	11	8	11	22	7	1				
+24/02/2015	Khayelitsha Site B CHC	Black African	F	13/04/1960	University Degree/Diploma	PN	2	2	2	2	10	36	10	20	10	31	15	25	5	1				
+24/02/2015	Khayelitsha Site B CHC	Black African	F	04/06/1977	Post-graduate	CNP	2	1	2	2	6	13	9	15	9	19	13	22	-6	1				
+24/02/2015	Khayelitsha Site B CHC	Black African	M	18/08/1975	Matric	EN	2	2	2	2	5	52	2	7	11	40	15	26	12	1				
+24/02/2015	Khayelitsha Site B CHC	Black African	F	27/03/1973	Matric	EN	2	2	2	2	6	49	7	13	11	47	15	26	2	1				
+24/02/2015	Khayelitsha Site B CHC	Black African	F	28/12/1960	University Degree/Diploma	CNP	2	2	2	2	11	34	15	26	6	36	11	17	-2	1				
+24/02/2015	Khayelitsha Site B CHC	Black African	F	11/11/1959	University Degree/Diploma	CNP	2	2	2	2	5	68	10	15	10	33	15	25	35	1				
+14/04/2015	Khayelitsha Site B CHC	Black African	F	21/12/1959	University Degree/Diploma	PN	2	2	2	2	8	29	9	17	10	34	14	24	-5	1				
+14/04/2015	Khayelitsha Site B CHC	Black African	F	28/03/1976	Post-graduate	CNP	2	2	2	2	8	72	11	19	10	65	12	22	7	1				
+14/04/2015	Khayelitsha Site B CHC	Black African	F	29/05/1978	Matric	EN	2	2	2	2	3	33	10	13	8	32	13	21	1	1				
+14/04/2015	Khayelitsha Site B CHC	Black African	F	11/11/1955	University Degree/Diploma	CNP	2	2	2	2	8	33	9	17	11	27	13	24	6	1				
+14/04/2015	Khayelitsha Site B CHC	Black African	F	10/08/1967	Matric	EN	2	2	2	2	7	31	7	14	11	31	14	25	0	1				
+14/04/2015	Khayelitsha Site B CHC	Black African	F	11/06/1977	Matric	EN	2	2	2	2	5	47	5	10	11	33	16	27	14	1				
+19/05/2015	Khayelitsha Site B CHC	Black African	F	30/10/1967	Post-graduate	CNP	2	2	2	2	7	49	6	13	11	47	16	27	2	1				
+19/05/2015	Khayelitsha Site B CHC	Black African	F	05/08/1959	University Degree/Diploma	PN	2	2	2	2	9	14	12	21	11	10	16	27	4	1				
+19/05/2015	Khayelitsha Site B CHC	Black African	F	29/09/1965	University Degree/Diploma	CNP	2	1	1	2	5	16	9	14	9	5	12	21	11	1				
+19/05/2015	Khayelitsha Site B CHC	Black African	F	20/04/1974	Post-graduate	CNP	2	2	2	2	10	28	9	19	8	26	14	22	2	1				
+19/05/2015	Khayelitsha Site B CHC	Black African	F	08/07/1992	University Degree/Diploma	PN	2	2	2	1	9	36	7	16	11	10	12	23	26	1				
+19/05/2015	Khayelitsha Site B CHC	Black African	F	11/02/1958	Post-graduate	CNP	2	2	2	1	5	10	7	12	9	27	13	22	-17	1				
+19/05/2015	Khayelitsha Site B CHC	Black African	F	18/06/1961	Post-graduate	PN	2	2	2	2	7	14	6	13	10	14	13	23	0	1				
+19/05/2015	Khayelitsha Site B CHC	Black African	F	27/04/1962	University Degree/Diploma	CNP	2	2	2	2	7	19	9	16	10	21	13	23	-2	1				
+19/05/2015	Khayelitsha Site B CHC	Black African	F	28/10/1975	Matric	EN	2	2	2	2	3	39	5	8	9	38	10	19	1	1				
+25/02/2015	Guguletu CHC	Black African	M	16/06/1971	University degree/diploma	PN	2	2	2	2	7	18	7	14	10	12	14	24	6	1				
+25/02/2015	Guguletu CHC	Black African	F	23/04/1976	Post-graduate	EN	2	2	2	2	5	35	6	11	9	28	12	21	7	1				
+25/02/2015	Guguletu CHC	Black African	M	09/09/1970	Post-graduate	PN	2	1	2	2	10	38	14	24	11	44	15	26	-6	1				
+25/02/2015	Guguletu CHC	Black African	M	20/01/2015	University degree/diploma	PN	2	2	2	2	5	72	10	15	9	51	12	21	21	1				
+25/02/2015	Guguletu CHC	Black African	M	07/03/1985	Post-graduate	CNP	2	2	2	2	4	91	7	11	9	85	13	22	6	1				
+25/02/2015	Guguletu CHC	Black African	M	10/11/1988	University degree/diploma	PN	2	2	2	2	4	42	8	12	10	32	12	22	10	1				
+25/02/2015	Guguletu CHC	Black African	F	04/04/1992	University degree/diploma	PN	2	2	2	2	9	14	8	17	11	3	14	25	11	1				
+25/02/2015	Guguletu CHC	Black African	F	15/07/1979	University degree/diploma	PN	2	2	2	2	2	52	3	5	11	25	10	21	27	1				
+25/02/2015	Guguletu CHC	Black African	F	04/11/1962	Matric	EN	2	2	2	2	4	45	4	8	8	39	8	16	6	1				
+25/02/2015	Guguletu CHC	Black African	F	30/05/1989	Matric	EN	2	1	1	2	5	26	6	11	8	30	13	21	-4	1				
+11/03/2015	Guguletu CHC	Coloured	F	08/01/1960	Post-graduate	PN	2	2	1	2	9	19	8	17	11	13	15	26	6	1				
+11/03/2015	Guguletu CHC	Black African	F	30/01/1991	University degree/diploma	PN	2	2	2	2	3	23	7	10	11	17	14	25	6	1				
+11/03/2015	Guguletu CHC	Black African	F	02/11/1960	University degree/diploma	CNP	2	2	2	2	9	30	11	20	10	24	15	25	6	1				
+11/03/2015	Guguletu CHC	Black African	F	03/06/1959	University degree/diploma	PN	2	2	2	2	6	28	9	15	11	30	15	26	-2	1				
+11/03/2015	Guguletu CHC	Black African	F	07/04/1964	Matric	EN	2	2	2	2	10	47	9	19	10	34	14	24	13	1				
+11/03/2015	Guguletu CHC	Black African	F	10/05/1965	University degree/diploma	CNP	2	2	1	2	8	44	7	15	10	29	10	20	15	1				
+11/03/2015	Guguletu CHC	Black African	F	10/10/1976	University degree/diploma	PN	2	2	2	2	3	51	9	12	11	40	15	26	11	1				
+11/03/2015	Guguletu CHC	Black African	F	04/04/1983	Post-graduate	PN	2	2	2	2	7	42	8	15	10	31	12	22	11	1				
+11/03/2015	Guguletu CHC	Black African	F	04/11/1955	Matric	EN	2	2	2	2	1	49	4	5	9	40	11	20	9	1				
+11/03/2015	Guguletu CHC	Black African	M	06/10/1960	University degree/diploma	CNP	2	2	2	2	8	35	12	20	10	28	10	20	7	1				
+11/03/2015	Guguletu CHC	Black African	M	26/03/1983	University degree/diploma	EN	2	2	2	1	1	39	5	6	11	31	16	27	8	1				
+15/05/2015	Guguletu CHC	Black African	F	29/07/1984	University degree/diploma	PN	2	2	2	2	5	18	9	14	10	29	13	23	-11	1				
+15/05/2015	Guguletu CHC	Black African	F	03/06/1981	Post-graduate	CNP	2	2	2	2	1	35	8	9	11	30	15	26	5	1				
+20/05/2015	Guguletu CHC	Black African	F	11/04/81	University degree/diploma	EN	2	1	2	1	6	23	10	16	8	27	11	19	-4	1				
+21/01/2015	"TC Newman CHC, Paarl"	Coloured	F	12/01/1963	University degree/Diploma	CNP	2	1	2	2	6	30	6	12	11	31	16	27	-1	1				
+21/01/2015	"TC Newman CHC, Paarl"	Black African	F	24/12/1966	Post-graduate	PN	2	2	2	2	6	48	6	12	11	43	10	21	5	1				
+21/01/2015	"TC Newman CHC, Paarl"	Black African	F	25/08/1989	Matric	EN	2	1	2	2	7	16	7	14	11	13	13	24	3	1				
+21/01/2015	"TC Newman CHC, Paarl"	Coloured	F	03/02/1965	University degree/Diploma	CNP	2	2	2	2	10	17	12	22	11	13	15	26	4	1				
+21/01/2015	"TC Newman CHC, Paarl"	Coloured	F	22/02/1962	Matric	EN	2	2	2	2	8	26	11	19	10	15	13	23	11	1				
+21/01/2015	"TC Newman CHC, Paarl"	Coloured	F	21/11/1968	University degree/Diploma	CNP	2	1	2	1	9	26	8	17	11	23	14	25	3	1				
+21/01/2015	"TC Newman CHC, Paarl"	White	F	25/03/1967	University degree/Diploma	PN	2	2	2	2	11	19	12	23	11	19	13	24	0	1				
+21/01/2015	"TC Newman CHC, Paarl"	Black African	F	06/03/1970	University degree/Diploma	PN	2	2	2	2	5	23	11	16	11	11	16	27	12	1				
+18/02/2015	"TC Newman CHC, Paarl"	Coloured	F	10/07/1965	Post-graduate	CNP	1	1	1	1	7	34	7	14	10	13	13	23	21	1				
+18/02/2015	"TC Newman CHC, Paarl"	White	F	12/12/1966	University degree/Diploma	PN	2	1	2	2	7	31	6	13	11	12	12	23	19	1				
+18/02/2015	"TC Newman CHC, Paarl"	Black African	F	23/01/1964	Post-graduate	PN	2	2	2	2	7	23	7	14	11	35	15	26	-12	1				
+18/02/2015	"TC Newman CHC, Paarl"	Black African	F	02/08/1962	University degree/Diploma	PN	2	2	2	2	7	32	7	14	9	26	13	22	6	1				
+18/02/2015	"TC Newman CHC, Paarl"	Coloured	F	28/05/1970	University degree/Diploma	EN	2	2	2	2	9	58	6	15	10	50	13	23	8	1				
+18/02/2015	"TC Newman CHC, Paarl"	Coloured	F	06/08/1983	University degree/Diploma	PN	1	2	2	2	7	30	10	17	11	16	13	24	14	1				
+18/02/2015	"TC Newman CHC, Paarl"	Coloured	F	26/11/1964	University degree/Diploma	CNP	2	2	2	2	8	44	10	18	11	29	15	26	15	1				
+18/02/2015	"TC Newman CHC, Paarl"	Coloured	M	04/05/1969	Post-graduate	CNP	2	1	2	2	7	55	10	17	11	33	14	25	22	1				
+18/02/2015	"TC Newman CHC, Paarl"	White	F	19/05/1959	Post-graduate	CNP	2	1	2	2	9	26	12	21	11	21	16	27	5	1				
+18/03/2015	"TC Newman CHC, Paarl"	Coloured	F	21/12/1963	Matric	EN	2	1	1	2	3	46	6	9	11	36	14	25	10	1				
+18/03/2015	"TC Newman CHC, Paarl"	Coloured	F	08/02/1964	University degree/Diploma	CNP	2	1	2	2	10	30	10	20	11	20	14	25	10	1				
+18/03/2015	"TC Newman CHC, Paarl"	Coloured	M	10/02/1965	Matric	EN	2	2	2	2	6	46	5	11	11	28	15	26	18	1				
+18/03/2015	"TC Newman CHC, Paarl"	Coloured	F	08/10/1965	University degree/Diploma	CNP	2	2	2	2	3	45	7	10	11	21	15	26	24	1				
+22/01/2015	Cloetesville clinic - Stellenbosch	Coloured	F	16/06/1967	University degree/diploma	CNP	2	2	2	2	8	38	9	17	11	27	14	25	11	1				
+22/01/2015	Cloetesville clinic - Stellenbosch	Coloured	M	11/12/1970	University degree/diploma	CNP	2	1	1	2	11	8	13	24	11	6	16	27	2	1				
+17/03/2015	Cloetesville clinic - Stellenbosch	Black African	F	15/06/1964	Matric	EN	2	1	2	1	8	16	5	13	11	16	14	25	0	1				
+17/03/2015	Cloetesville clinic - Stellenbosch	Coloured	F	12/03/1963	University degree/diploma	CNP	2	1	2	2	11	17	13	24	11	17	15	26	0	1				
+17/03/2015	Cloetesville clinic - Stellenbosch	Coloured	F	22/06/1981	University degree/diploma	CNP	2	2	2	2	8	40	10	18	11	37	15	26	3	1				
+17/03/2015	Cloetesville clinic - Stellenbosch	White	F	06/02/1966	University degree/diploma	CNP	2	1	2	2	11	8	15	26	11	8	14	25	0	1				
+10/04/2015	Groendal clinic - Franschoek	Coloured	F	22/06/1985	Post-graduate	CNP	2	2	2	2	9	30	10	19	11	10	14	25	20	1				
+10/04/2015	Groendal clinic - Franschoek	Coloured	F	27/10/1970	Post-graduate	CNP	1	1	2	2	11	22	13	24	11	9	15	26	13	1				
+22/05/2015	Groendal clinic - Franschoek	Coloured	F	26/12/1954	University degree/diploma	CNP	1	1	2	2	10	28	11	21	10	21	10	20	7	1				
+22/05/2015	Groendal clinic - Franschoek	Coloured	F	24/06/1962	University degree/diploma	EN	2	1	2	2	8	46	8	16	9	14	11	20	32	1				
+22/05/2015	Groendal clinic - Franschoek	Coloured	F	04/07/1966	Matric	EN	2	1	2	2	7	38	9	16	10	31	12	22	7	1				
+22/05/2015	Groendal clinic - Franschoek	Coloured	F	03/06/1953	Matric	EN	2	1	2	2	8	28	12	20	10	12	11	21	16	1				
+22/05/2015	Groendal clinic - Franschoek	Coloured	F	06/04/1978	University degree/diploma	CNP	2	2	2	2	9	36	11	20	10	13	13	23	23	1				
+24/02/2015	Khayelitsha Site B CHC	Black African	F	15/01/1987	University degree	Admin	2	2	2	2	6	34			8	35			-1	2				
+24/02/2015	Khayelitsha Site B CHC	Black African	M	16/01/1981	Matric	Admin	2	2	2	2	6	46			10	37			9	2				
+24/02/2015	Khayelitsha Site B CHC	Black African	F	25/11/1953	Matric	Lay counsellor	1	2	2	2	9	7			9	22			-15	2				
+24/02/2015	Khayelitsha Site B CHC	Black African	F	22/01/1988	Matric	Admin	2	2	2	2	6	13			11	12			1	2				
+24/02/2015	Khayelitsha Site B CHC	Coloured	M	25/09/1954	Matric	Admin	2	2	2	2	5	27			11	10			17	2				
+24/02/2015	Khayelitsha Site B CHC	Black African	M	10/09/1992	Matric	Admin	2	2	2	2	5	23			11	16			7	2				
+24/02/2015	Khayelitsha Site B CHC	Black African	M	28/01/1988	Matric	Admin	2	2	2	2	5	79			11	47			32	2				
+24/02/2015	Khayelitsha Site B CHC	Black African	F	09/07/1956	St.8/Gr.10	ENA	2	2	2	2	6	36			11	29			7	2				
+24/02/2015	Khayelitsha Site B CHC	Black African	F	19/09/1975	St.8/Gr.10	ENA	2	2	2	2	7	65			11	43			22	2				
+14/04/2015	Khayelitsha Site B CHC	Black African	F	29/10/1967	St.8/Gr.10	General Assistant	1	2	1	1	1	42			9	41			1	2				
+14/04/2015	Khayelitsha Site B CHC	Black African	F	19/10/1977	St.8/Gr.10	Community care worker	2	2	2	2	6	61			8	60			1	2				
+14/04/2015	Khayelitsha Site B CHC	Black African	M	23/06/1978	Matric	General Assistant	2	2	2	2	6	54			8	57			-3	2				
+14/04/2015	Khayelitsha Site B CHC	Black African	M	10/11/1964	Less than St.8/Gr.10	General Assistant	2	2	2	2	5	29			7	49			-20	2				
+14/04/2015	Khayelitsha Site B CHC	Black African	F	23/12/1984	Matric	Community care worker	2	2	2	2	4	21			10	4			17	2				
+14/04/2015	Khayelitsha Site B CHC	Black African	F	01/01/1979	Matric	General Assistant	2	2	2	2	6	20			7	30			-10	2				
+14/04/2015	Khayelitsha Site B CHC	Black African	F	21/03/1977	Matric	General Assistant	2	2	2	2	8	13			10	10			3	2				
+14/04/2015	Khayelitsha Site B CHC	Black African	F	27/02/1984	Matric	Community care worker	2	2	2	1	7	55			9	36			19	2				
+14/04/2015	Khayelitsha Site B CHC	Black African	F	28/12/1984	Matric	General Assistant	2	2	2	2	7	56			9	57			-1	2				
+14/04/2015	Khayelitsha Site B CHC	Black African	F	01/03/1958	Matric	Health promoter	2	1	2	2	8	66			7	32			34	2				
+14/04/2015	Khayelitsha Site B CHC	Black African	F	17/08/1968	University degree	Social Worker	2	2	2	2	8	9			9	24			-15	2				
+14/04/2015	Khayelitsha Site B CHC	Black African	F	06/03/1986	Matric	Lay counsellor	1	2	2	2	9	24			11	22			2	2				
+14/04/2015	Khayelitsha Site B CHC	Black African	M	06/01/1973	Less than St.8/Gr.10	General Assistant	2	2	2	2	0	47			8	35			12	2				
+19/05/2015	Khayelitsha Site B CHC	Black African	F	22/01/1964	St.8/Gr.10	General Assistant	1	1	2	2	3	59			6	49			10	2				
+19/05/2015	Khayelitsha Site B CHC	Black African	F	30/08/1984	Matric	Lay counsellor	1	2	1	2	9	21			11	25			-4	2				
+19/05/2015	Khayelitsha Site B CHC	Black African	F	06/12/1984	Matric	General Assistant	2	2	2	2	8	24			9	34			-10	2				
+19/05/2015	Khayelitsha Site B CHC	Black African	F	20/07/1983	Matric	Lay counsellor	1	1	2	1	7	12			9	15			-3	2				
+19/05/2015	Khayelitsha Site B CHC	Black African	F	10/10/1976	Matric	Lay counsellor	1	1	2	2	7	33			10	30			3	2				
+19/05/2015	Khayelitsha Site B CHC	Black African	F	19/07/1982	Matric	Lay counsellor	2	1	1	2	9	10			10	5			5	2				
+25/02/2015	Guguletu CHC	Black African	F	01/06/1970	St. 8/Gr. 10	Dark Room Operator	2	2	2	2	8	65			11	45			20	2				
+25/02/2015	Guguletu CHC	Black African	M	08/01/1978	University degree/diploma	Admin	2	2	2	2	6	58			8	35			23	2				
+25/02/2015	Guguletu CHC	Black African	F	09/11/1964	St. 8/Gr. 10	Lay counsellor	2	2	1	2	6	76			8	23			53	2				
+25/02/2015	Guguletu CHC	Black African	F	05/03/1955	University degree/diploma	Social worker	2	2	2	2	5	25			8	34			-9	2				
+25/02/2015	Guguletu CHC	Black African	F	14/02/1979	University degree/diploma	Lay counsellor	2	1	2	2	6	21			10	13			8	2				
+25/02/2015	Guguletu CHC	Black African	M	16/11/1972	St. 8/Gr. 10	Lay counsellor	2	2	2	2	11	0			11	4			-4	2				
+25/02/2015	Guguletu CHC	Black African	F	03/03/1974	St. 8/Gr. 10	Community Care worker	2	2	2	2	3	21			8	19			2	2				
+25/02/2015	Guguletu CHC	Black African	M	02/02/1950	Less than St.8/Gr. 10	Security	2	2	2	2	1	47			10	41			6	2				
+11/03/2015	Guguletu CHC	Black African	M	07/07/1991	University degree/diploma	ENA	2	2	2	2	4	72			10	75			-3	2				
+11/03/2015	Guguletu CHC	Black African	F	28/10/1982	Matric	Health Promotor	2	2	2	2	1	50			7	27			23	2				
+11/03/2015	Guguletu CHC	Black African	F	09/10/1955	Less than St.8/Gr. 10	General Assistant	2	2	2	2	6	21			11	26			-5	2				
+11/03/2015	Guguletu CHC	Black African	F	15/03/1976	Matric	Lay counsellor	2	1	1	1	8	36			10	29			7	2				
+15/05/2015	Guguletu CHC	Coloured	F	19/01/1983	Matric	Admin	2	2	2	2	4	36			9	27			9	2				
+15/05/2015	Guguletu CHC	Black African	F	13/09/1982	Matric	Lay counsellor	2	2	1	2	7	26			8	20			6	2				
+15/05/2015	Guguletu CHC	Black African	M	25/03/1966	Less than St.8/Gr. 10	Lay counsellor	1	1	1	2	7	51			10	18			33	2				
+15/05/2015	Guguletu CHC	Black African	F	22/10/1981	Matric	Lay counsellor	2	1	2	2	10	12			11	9			3	2				
+15/05/2015	Guguletu CHC	Black African	F	09/11/1964	St. 8/Gr. 10	Lay counsellor	1	2	1	1	7	27			10	29			-2	2				
+15/05/2015	Guguletu CHC	Black African	F	05/12/1986	Matric	Lay counsellor	2	2	2	2	2	33			11	29			4	2				
+15/05/2015	Guguletu CHC	Black African	M	20/05/1971	St. 8/Gr. 10	General Assistant	2	2	2	2	3	62			10	55			7	2				
+15/05/2015	Guguletu CHC	Black African	F	04/08/1973	Matric	Lay counsellor	1	2	2	1	5	44			11	27			17	2				
+15/05/2015	Guguletu CHC	Black African	M	10/04/1984	Matric	Lay counsellor	2	2	2	2	5	50			11	14			36	2				
+15/05/2015	Guguletu CHC	Black African	M	07/09/1986	Matric	Lay counsellor	2	2	2	2	8	24			11	27			-3	2				
+15/05/2015	Guguletu CHC	Black African	F	13/09/1973	Matric	Lay counsellor	2	2	2	2	5	50			11	27			23	2				
+15/05/2015	Guguletu CHC	Black African	F	31/10/1963	St. 8/Gr. 10	Lay counsellor	2	2	2	2	7	44			11	18			26	2				
+21/01/2015	"TC Newman CHC, Paarl"	Coloured	F	28/08/1974	University degree/diploma	Allied Health	2	2	2	2	7	37			10	28			9	2				
+21/01/2015	"TC Newman CHC, Paarl"	Black African	F	21/05/1975	Matric	Lay counsellor	2	1	1	2	8	18			11	1			17	2				
+21/01/2015	"TC Newman CHC, Paarl"	Coloured	F	29/05/1965	Post graduate	Allied Health	2	2	2	2	4	31			11	30			1	2				
+21/01/2015	"TC Newman CHC, Paarl"	Coloured	F	11/09/1962	St.8/Gr.10	General Assistant	2	1	2	2	6	45			10	15			30	2				
+21/01/2015	"TC Newman CHC, Paarl"	Coloured	M	11/05/1959	Matric	General Assistant	2	2	2	1	0	71			6	75			-4	2				
+21/01/2015	"TC Newman CHC, Paarl"	Coloured	F	06/12/1966	St.8/Gr.10	General Assistant	2	2	2	2	1	39			8	30			9	2				
+21/01/2015	"TC Newman CHC, Paarl"	Coloured	M	11/06/1982	University degree/diploma	Pharamcy Assistant	2	2	2	2	5	43			11	27			16	2				
+21/01/2015	"TC Newman CHC, Paarl"	White	M	07/09/1950	University degree/diploma	Pharmacist	2	2	2	2	8	35			10	17			18	2				
+21/01/2015	"TC Newman CHC, Paarl"	Coloured	M	28/01/1976	St.8/Gr.10	Administrator	2	2	2	2	5	46			9	54			-8	2				
+21/01/2015	"TC Newman CHC, Paarl"	Coloured	F	15/10/1968	Matric	General Assistant	2	2	2	1	5	49			8	57			-8	2				
+21/01/2015	"TC Newman CHC, Paarl"	Coloured	M	15/02/1971	St.8/Gr.10	General Assistant	2	2	2	1	5	39			7	41			-2	2				
+21/01/2015	"TC Newman CHC, Paarl"	Black African	F	27/11/1980	Matric	Security	2	2	2	2	5	23			10	31			-8	2				
+18/02/2015	"TC Newman CHC, Paarl"	Coloured	M	11/04/1965	Less than St.8/Gr. 10	General Assistant	2	2	2	2	0	56			10	43			13	2				
+18/02/2015	"TC Newman CHC, Paarl"	Black African	F	24/01/1958	St.8/Gr.10	Lay counsellor	2	1	1	2	9	29			8	34			-5	2				
+18/02/2015	"TC Newman CHC, Paarl"	Coloured	M	28/06/1967	St.8/Gr.10	General Assistant	2	2	2	2	5	47			8	47			0	2				
+18/02/2015	"TC Newman CHC, Paarl"	Black African	F	24/10/1977	University degree/diploma	Lay counsellor	2	1	2	2	5	28			9	19			9	2				
+18/02/2015	"TC Newman CHC, Paarl"	Coloured	F	15/06/1960	St.8/Gr.10	Lay counsellor	1	2	1	2	9	20			10	15			5	2				
+18/02/2015	"TC Newman CHC, Paarl"	Black African	F	21/05/1958	St.8/Gr.10	General Assistant	2	2	2	2	1	67			11	39			28	2				
+18/02/2015	"TC Newman CHC, Paarl"	Coloured	M	29/01/1968	St.8/Gr.10	Administrator	2	2	2	2	6	34			9	19			15	2				
+18/02/2015	"TC Newman CHC, Paarl"	Coloured	F	09/03/1955	Less than St.8/Gr. 10	General Assistant	2	2	2	2	5	47			8	49			-2	2				
+18/02/2015	"TC Newman CHC, Paarl"	Coloured	F	09/07/1959	Matric	Administrator	2	2	2	2	5	7			10	2			5	2				
+18/02/2015	"TC Newman CHC, Paarl"	Coloured	F	21/03/1985	University degree/diploma	Allied Health	2	2	2	1	7	34			10	20			14	2				
+18/02/2015	"TC Newman CHC, Paarl"	Coloured	F	13/06/1966	Matric	Allied Health	2	2	2	2	9	20			9	20			0	2				
+18/02/2015	"TC Newman CHC, Paarl"	Coloured	F	09/06/1966	St. 8/Gr. 10	ENA	2	2	2	2	8	43			8	30			13	2				
+18/02/2015	"TC Newman CHC, Paarl"	Coloured	M	29/08/1967	Post graduate	Allied Health	2	2	2	1	9	51			10	46			5	2				
+18/02/2015	"TC Newman CHC, Paarl"	White	M	13/01/1960	University degree/diploma	Allied Health	2	2	2	2	10	21			11	18			3	2				
+18/03/2015	"TC Newman CHC, Paarl"	Black African	F	25/02/1978	Matric	Lay counsellor	2	2	2	1	6	57			10	41			16	2				
+18/03/2015	"TC Newman CHC, Paarl"	White	F	04/10/1958	Matric	Administrator	2	2	2	2	5	34			10	28			6	2				
+18/03/2015	"TC Newman CHC, Paarl"	Coloured	F	22/05/1976	Matric	Administrator	2	2	2	2	7	33			10	37			-4	2				
+18/03/2015	"TC Newman CHC, Paarl"	Coloured	M	04/09/1976	University degree/diploma	Administrator	2	2	2	1	10	35			8	35			0	2				
+18/03/2015	"TC Newman CHC, Paarl"	Black African	F	05/06/1964	Matric	General Assistant	2	2	2	2	10	57			7	61			-4	2				
+18/03/2015	"TC Newman CHC, Paarl"	Coloured	F	17/03/1965	Less than St.8/Gr. 10	General Assistant	2	2	2	2	7	54			11	30			24	2				
+18/03/2015	"TC Newman CHC, Paarl"	Coloured	M	01/07/1963	Less than St.8/Gr. 10	General Assistant	2	2	2	2	3	42			11	55			-13	2				
+18/03/2015	"TC Newman CHC, Paarl"	Black African	F	29/10/1973	St.8/Gr.10	General Assistant	2	2	2	2	3	63			9	49			14	2				
+18/03/2015	"TC Newman CHC, Paarl"	Black African	M	19/11/1990	University degree/diploma	Administrator	2	2	2	2	1	46			11	37			9	2				
+18/03/2015	"TC Newman CHC, Paarl"	Coloured	M	29/08/1971	St.8/Gr.10	General Assistant	2	2	2	2	10	32			9	38			-6	2				
+18/03/2015	"TC Newman CHC, Paarl"	Coloured	F	07/08/1987	University degree/diploma	Allied Health	2	1	2	1	11	11			11	8			3	2				
+18/03/2015	"TC Newman CHC, Paarl"	White	F	26/05/1982	University degree/diploma	Allied Health	2	2	2	1	7	43			10	27			16	2				
+18/03/2015	"TC Newman CHC, Paarl"	White	F	06/07/1983	University degree/diploma	Allied Health	2	2	2	2	10	28			11	14			14	2				
+18/03/2015	"TC Newman CHC, Paarl"	Coloured	F	01/02/1985	University degree/diploma	Allied Health	2	2	2	2	9	32			11	11			21	2				
+18/03/2015	"TC Newman CHC, Paarl"	White	F	30/01/1991	University degree/diploma	Allied Health	2	2	2	2	9	33			11	13			20	2				
+18/03/2015	"TC Newman CHC, Paarl"	White	F	31/03/1984	University degree/diploma	Allied Health	2	2	2	2	6	32			8	28			4	2				
+22/01/2015	Cloetesville clinic - Stellenbosch	Coloured	F	12/10/1967	St. 8/Gr. 10	Admin	2	2	2	2	6	35			10	23			12	2				
+22/01/2015	Cloetesville clinic - Stellenbosch	Coloured	F	13/07/1992	University Degree/Diploma	Pharmacy assistant	2	1	2	2	7	12			10	0			12	2				
+22/01/2015	Cloetesville clinic - Stellenbosch	Black African	F	29/01/1986	University Degree/Diploma	Pharmacy assistant	2	2	2	2	9	13			9	8			5	2				
+22/01/2015	Cloetesville clinic - Stellenbosch	Coloured	F	25/11/1973	Matric	Lay counsellor	2	2	2	2	11	11			11	5			6	2				
+22/01/2015	Cloetesville clinic - Stellenbosch	Coloured	F	17/08/1971	Less than St.8/Gr.10	General Assistant	2	2	2	2	4	41			10	45			-4	2				
+22/01/2015	Cloetesville clinic - Stellenbosch	Coloured	M	27/03/1974	Matric	Pharmacy assistant	1	2	2	2	5	71			11	34			37	2				
+17/03/2015	Cloetesville clinic - Stellenbosch	Coloured	M	12/04/1969	Matric	General Assistant	2	2	2	2	5	67			6	57			10	2				
+17/03/2015	Cloetesville clinic - Stellenbosch	Black African	F	19/04/1980	Matric	General Assistant	2	2	2	2	3	30			11	25			5	2				
+17/03/2015	Cloetesville clinic - Stellenbosch	Black African	F	29/06/1992	Matric	Admin	2	2	2	2	6	43			10	36			7	2				
+17/03/2015	Cloetesville clinic - Stellenbosch	Black African	F	12/12/1973	Matric	Lay counsellor	2	1	1	2	7	28			9	26			2	2				
+17/03/2015	Cloetesville clinic - Stellenbosch	Coloured	F	12/09/1995	Matric	Community Care Worker 	2	2	2	2	6	21			9	18			3	2				
+17/03/2015	Cloetesville clinic - Stellenbosch	Coloured	M	16/11/1996	Matric	Community Care Worker 	2	2	2	2	6	45			10	41			4	2				
+17/03/2015	Cloetesville clinic - Stellenbosch	Coloured	F	11/04/1979	Matric	Admin	2	1	2	2	6	24			11	19			5	2				
+17/03/2015	Cloetesville clinic - Stellenbosch	Coloured	M	29/03/1983	University Degree/Diploma	Pharmicist	2	2	2	1	9	3			11	3			0	2				
+10/04/2015	Groendal clinic - Franschoek	Black African	M	27/12/1987	Matric	Community Care Worker	2	2	2	2	7	46			6	31			15	2				
+10/04/2015	Groendal clinic - Franschoek	Black African	M	27/10/1978	University degree/Diploma	Allied Worker	2	2	2	2	5	45			11	34			11	2				
+10/04/2015	Groendal clinic - Franschoek	Coloured	F	10/07/1959	Matric	Lay counsellor	2	1	2	1	8	18			10	12			6	2				
+10/04/2015	Groendal clinic - Franschoek	Black African	M	29/07/1986	Matric	Lay counsellor	2	2	2	2	4	11			10	9			2	2				
+22/05/2015	Groendal clinic - Franschoek	Coloured	M	23/01/1992	Matric	Admin	2	2	2	2	6	2			8	4			-2	2				
+22/05/2015	Groendal clinic - Franschoek	Black African	F	26/05/1979	Matric	Lay counsellor	2	1	1	2	8	28			9	20			8	2				
+22/05/2015	Groendal clinic - Franschoek	Black African	F	22/01/1986	St. 8/Gr.10	General assistant	2	2	2	2	0	50			6	23			27	2				
